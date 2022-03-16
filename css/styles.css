@@ -12,3 +12,8 @@ img {
   width: 300px;
   float: right;
 }
+
+.collumm {
+  width: 300px;
+  float: left;
+}
